@@ -1,0 +1,1 @@
+INSERT INTO `producto` (`nombre`,`precioUnitario`,`idCategoria`) VALUES ('Kiwi',8.77,8),('Coco',5.77,8),('Jugo de Naranja',2.80,1);
