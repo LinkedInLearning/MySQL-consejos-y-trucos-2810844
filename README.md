@@ -1,25 +1,17 @@
-# COURSENAME
-This is the repository for the LinkedIn Learning course `course-name`. The full course is available from [LinkedIn Learning][lil-course-url].
+# MySQL: Consejos y trucos
+This is the repository for the LinkedIn Learning course MySQL: Consejos y trucos. The full course is available from [LinkedIn Learning][lil-course-url].
 
-![course-name-alt-text][lil-thumbnail-url] 
+![MySQL: Consejos y trucos][lil-thumbnail-url] 
+Aprende a optimizar tus bases de datos MySQL y tus consultas para minimizar los tiempos de respuesta y lograr los mejores resultados. Al terminar este curso de trucos y consejos conocerás todas las claves para evaluar y optimizar las consultas SQL de tus bases de datos, mejorando de esta manera el rendimiento de las mismas. Además, sabrás cómo solucionar problemas relacionados al diseño de las bases de datos relacionales para evitar la duplicidad y falta de integridad de los datos. ¿Empezamos esta aventura?
 
-_See the readme file in the main branch for updated instructions and information._
-## Instructions
-This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
+### Instructor
 
-## Branches
-The branches are structured to correspond to the videos in the course. The naming convention is `CHAPTER#_MOVIE#`. As an example, the branch named `02_03` corresponds to the second chapter and the third video in that chapter. 
-Some branches will have a beginning and an end state. These are marked with the letters `b` for "beginning" and `e` for "end". The `b` branch contains the code as it is at the beginning of the movie. The `e` branch contains the code as it is at the end of the movie. The `main` branch holds the final state of the code when in the course.
+**Lincy González Rojas**
 
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
+_Máster en Ingeniería (MEng)_
 
+Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/lincy-gonzalez-rojas).
 
-[0]: # (Replace these placeholder URLs with actual course URLs)
-
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+[lil-course-url]: https://www.linkedin.com/learning/mysql-consejos-y-trucos
+[lil-thumbnail-url]: https://cdn.lynda.com/course/2810844/2810844-1607524713466-16x9.jpg
 
